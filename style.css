@@ -35,6 +35,7 @@ h1 {
 p {
     font-size: 2rem;
     text-align: center;
+    margin: 5px;
 }
 
 .container {
