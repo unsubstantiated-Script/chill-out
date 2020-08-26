@@ -38,6 +38,10 @@ p {
     margin: 5px;
 }
 
+audio {
+    margin-bottom: 200px;
+}
+
 .container {
     display: flex;
     align-items: center;
